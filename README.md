@@ -180,8 +180,30 @@ const zaqqx = {
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>N'hésite pas à me contacter !</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+<b>N'hésite pas à me contacter !</b>
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## Mes Projets
+
+<div align="center">
+
+| Projet | Description | Statut |
+|:------:|:-----------:|:------:|
+| [**21Legacy.fr**](https://21legacy.fr) | Projet personnel | ✅ En ligne |
+| **Projet Web IPSSI** | Projet scolaire | 🚧 En cours |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=fadeIn" width="100%"/>
 
