@@ -51,44 +51,44 @@ const zaqqx = {
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br><b>HTML5</b>
-<br>4/5
+<br>⭐⭐⭐⭐
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 <br><b>CSS3</b>
-<br>3/5
+<br>⭐⭐⭐
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br><b>JavaScript</b>
-<br>3/5
+<br>⭐⭐⭐
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
 <br><b>PHP</b>
-<br>4/5
+<br>⭐⭐⭐⭐
 </td>
 </tr>
 <tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 <br><b>Python</b>
-<br>3/5
+<br>⭐⭐⭐
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
 <br><b>Lua</b>
-<br>2/5
+<br>⭐⭐
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 <br><b>SQL</b>
-<br>3/5
+<br>⭐⭐⭐
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br><b>Git</b>
-<br>3/5
+<br>⭐⭐⭐
 </td>
 </tr>
 </table>
@@ -196,6 +196,8 @@ const zaqqx = {
 |:------:|:-----------:|:------:|
 | [**21Legacy.fr**](https://21legacy.fr) | Projet personnel | ✅ En ligne |
 | **Projet Web IPSSI** | Projet scolaire | 🚧 En cours |
+| [**Quizzeo (IPSSI)**](https://github.com/ImadAtouani/Quizzeo) | Projet IPSSI (quiz web) | ✅ Terminé |
+| _Et plein d'autres en cours..._ |  |  |
 
 </div>
 
