@@ -22,7 +22,8 @@ const zaqqx = {
   école: "IPSSI Lille",
   formation: "Bachelor Développement - 1ère année",
   âge: 19,
-  ville: "Lille ",
+  ville: "Lille",
+  situation: "Stage trouvé ✅",
   
   passions: [
     "Développement Web",
@@ -31,7 +32,8 @@ const zaqqx = {
     "Coder la nuit"
   ],
   
-  devise: "// TODO: Dormir plus "
+  objectif_2026: "Monter en compétences en full-stack et Unity",
+  devise: "// TODO: Dormir plus"
 };
 ```
 
@@ -42,7 +44,7 @@ const zaqqx = {
 </div>
 
 
-## Ce que j'apprends à l'IPSSI
+## Compétences en progression
 
 <div align="center">
 
@@ -111,36 +113,25 @@ const zaqqx = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## Recherche de Stage
+## Actuellement
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RECHERCHE_STAGE-DISPONIBLE_À_PARTIR_DU_18_MAI_2025-00C853?style=for-the-badge&labelColor=0d1117"/>
+| En cours         | Objectifs           | Temps libre         |
+|:----------------:|:-------------------:|:-------------------:|
+| Bachelor IPSSI   | Valider mon année   | Gaming              |
+| Projets Web      | Approfondir Unity   | Coder des projets perso |
+| Stage trouvé ✅  | Réussir mon stage   | Café & Code         |
 
-<br/><br/>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   RECHERCHE DE STAGE - DÉVELOPPEMENT WEB                    ║
-║                                                              ║
-║   Disponible à partir du : 18 Mai 2025                      ║
-║   Durée : 2 mois minimum                                    ║
-║   Localisation : Lille & alentours                          ║
-║                                                              ║
-║   Domaines recherchés :                                     ║
-║       • Développement Web (Front-end / Back-end)            ║
-║       • Intégration Web                                     ║
-║       • Développement Full Stack                            ║
-║                                                              ║
-║   Compétences : HTML, CSS, JS, PHP, Python, SQL             ║
-║                                                              ║
-║   N'hésitez pas à me contacter !                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<br/>
+## Contact
+
+<div align="center">
 
 <a href="mailto:mathis.leterme2@gmail.com">
   <img src="https://img.shields.io/badge/Email-mathis.leterme2@gmail.com-ff6b6b?style=for-the-badge"/>
@@ -151,22 +142,6 @@ const zaqqx = {
 <a href="https://discord.com/users/7zarq">
   <img src="https://img.shields.io/badge/Discord-7zarq-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Actuellement
-
-<div align="center">
-
-| En cours         | Objectifs           | Temps libre         |
-|:----------------:|:-------------------:|:-------------------:|
-| Bachelor IPSSI   | Valider mon année   | Gaming              |
-| Projets Web      | Apprendre UNITY     | Coder des projets perso |
-| Trouver un stage | Stage dès le 18 Mai | Café & Code         |
 
 </div>
 
