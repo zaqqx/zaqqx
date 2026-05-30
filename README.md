@@ -1,10 +1,10 @@
 <div align="center">
 
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5&height=200&section=header&text=zaqqx&fontSize=70&fontColor=fff&animation=fadeIn&desc=Étudiant%20Bachelor%201ère%20année%20@%20IPSSI%20Lille&descSize=20&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5&height=200&section=header&text=zaqqx&fontSize=70&fontColor=fff&animation=fadeIn&desc=Étudiant%20Bachelor%202ème%20année%20@%20IPSSI%20Lille&descSize=20&descAlignY=70)
 
 <h2>Salut, moi c'est zaqqx</h2>
-<h3>Bachelor 1ère année @ IPSSI Lille</h3>
+<h3>Bachelor 2ème année @ IPSSI Lille</h3>
 <h4>19 ans, passionné de développement web</h4>
 
 <br/>
@@ -20,10 +20,10 @@
 const zaqqx = {
   status: "Étudiant",
   école: "IPSSI Lille",
-  formation: "Bachelor Développement - 1ère année",
+  formation: "Bachelor Développement - 2ème année",
   âge: 19,
   ville: "Lille",
-  situation: "Stage trouvé ✅",
+  situation: "En stage ✅",
   
   passions: [
     "Développement Web",
@@ -119,9 +119,9 @@ const zaqqx = {
 
 | En cours         | Objectifs           | Temps libre         |
 |:----------------:|:-------------------:|:-------------------:|
-| Bachelor IPSSI   | Valider mon année   | Gaming              |
+| Bachelor 2ème année IPSSI | Réussir ma 2ème année | Gaming              |
 | Projets Web      | Approfondir Unity   | Coder des projets perso |
-| Stage trouvé ✅  | Réussir mon stage   | Café & Code         |
+| Stage en cours ✅ | Réussir mon stage   | Café & Code         |
 
 </div>
 
@@ -170,8 +170,11 @@ const zaqqx = {
 | Projet | Description | Statut |
 |:------:|:-----------:|:------:|
 | [**21Legacy.fr**](https://21legacy.fr) | Projet personnel | ✅ En ligne |
-| **Projet Web IPSSI** | Projet scolaire | 🚧 En cours |
+| **Agent-Mail** | Agent qui trie, gère et notifie les mails importants | 🚧 En cours |
+| **Projet Web IPSSI** | Projet scolaire | ✅ Terminé |
+| **Projet de cours** | Jeu FPS shooter BLITZ-RUNNER | ✅ Terminé |
 | [**Quizzeo (IPSSI)**](https://github.com/ImadAtouani/Quizzeo) | Projet IPSSI (quiz web) | ✅ Terminé |
+| [**Botstage**](https://github.com/zaqqx/Botstage) | Projet personnel | ✅ Terminé |
 | _Et plein d'autres en cours..._ |  |  |
 
 </div>
