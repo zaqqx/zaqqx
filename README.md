@@ -133,12 +133,7 @@ const zaqqx = {
 
 <div align="center">
 
-<a href="mailto:mathis.leterme2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mathis.leterme2@gmail.com-ff6b6b?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/mathis-leterme-a9a897386">
-  <img src="https://img.shields.io/badge/LinkedIn-Mathis%20Leterme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 <a href="https://discord.com/users/7zarq">
   <img src="https://img.shields.io/badge/Discord-7zarq-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
