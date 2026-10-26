@@ -1,190 +1,92 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230&section=header&text=Mathis%20Leterme&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20en%20formation%20%7C%20Bachelor%203%20%E2%80%94%20IPSSI%20Lille&descSize=17&descAlignY=58)
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5&height=200&section=header&text=zaqqx&fontSize=70&fontColor=fff&animation=fadeIn&desc=Étudiant%20Bachelor%202ème%20année%20@%20IPSSI%20Lille&descSize=20&descAlignY=70)
+[![Formation](https://img.shields.io/badge/Formation-Bachelor%203%20%7C%20IPSSI-1e3a8a?style=for-the-badge)](https://www.ipssi.com/)
+![Alternance](https://img.shields.io/badge/Alternance-Lead4france-2563eb?style=for-the-badge)
+![Localisation](https://img.shields.io/badge/Lille-France-0f172a?style=for-the-badge)
 
-<h2>Salut, moi c'est zaqqx</h2>
-<h3>Bachelor 2ème année @ IPSSI Lille</h3>
-<h4>19 ans, passionné de développement web</h4>
+</div>
+
+## 👋 Profil
+
+Étudiant en troisième année de Bachelor Développement à l’IPSSI Lille, je suis en alternance chez Lead4france. Je m’intéresse au développement web et à la création de projets numériques, et je consolide mes compétences techniques au travers de projets concrets.
+
+## 🎓 Formation et expérience
+
+<table>
+  <tr>
+    <td align="center"><strong>🎓 Formation</strong></td>
+    <td>Bachelor Développement, 3ᵉ année — IPSSI Lille</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>💼 Expérience</strong></td>
+    <td>Alternance — Lead4france</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>📍 Localisation</strong></td>
+    <td>Lille, France</td>
+  </tr>
+</table>
+
+## 🧰 Compétences techniques
+
+<div align="center">
+
+<strong>Développement</strong><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,lua&theme=dark" alt="HTML, CSS, JavaScript, PHP, Python et Lua" />
+
+<br/><strong>Bases de données et outils</strong><br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,windows&theme=dark" alt="MySQL, Git, GitHub, Visual Studio Code et Windows" />
+
+</div>
+
+## 🚀 Projets
+
+| Projet | Description | Statut |
+| --- | --- | :---: |
+| [21Legacy.fr](https://21legacy.fr) | Projet personnel disponible en ligne | ![En ligne](https://img.shields.io/badge/En%20ligne-16a34a?style=flat-square) |
+| Agent-Mail | Outil de tri, de gestion et de notification des e-mails importants | ![En cours](https://img.shields.io/badge/En%20cours-f59e0b?style=flat-square) |
+| Projet Web IPSSI | Projet de développement web réalisé dans le cadre de la formation | ![Terminé](https://img.shields.io/badge/Termin%C3%A9-64748b?style=flat-square) |
+| BLITZ-RUNNER | Jeu de tir à la première personne réalisé dans le cadre d’un projet de cours | ![Terminé](https://img.shields.io/badge/Termin%C3%A9-64748b?style=flat-square) |
+| [Quizzeo](https://github.com/ImadAtouani/Quizzeo) | Projet de quiz web réalisé à l’IPSSI | ![Terminé](https://img.shields.io/badge/Termin%C3%A9-64748b?style=flat-square) |
+| [Botstage](https://github.com/zaqqx/Botstage) | Projet personnel | ![Terminé](https://img.shields.io/badge/Termin%C3%A9-64748b?style=flat-square) |
+
+## 📈 Activité GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zaqqx&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" alt="Statistiques GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqqx&layout=compact&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0" alt="Langages les plus utilisés sur GitHub" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaqqx&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=60a5fa&area=true&hide_border=true" alt="Graphique d'activité GitHub" width="95%" />
 
 </div>
 
+## 🎯 Objectifs
 
-## À propos de moi
+- Valider ma troisième année de Bachelor.
+- Renforcer mes compétences en développement web et full-stack.
+- Contribuer aux projets de l’entreprise dans le cadre de mon alternance.
+- Concevoir des applications fiables et maintenables.
 
-```js
-const zaqqx = {
-  status: "Étudiant",
-  école: "IPSSI Lille",
-  formation: "Bachelor Développement - 2ème année",
-  âge: 19,
-  ville: "Lille",
-  situation: "En stage ✅",
-  
-  passions: [
-    "Développement Web",
-    "Gaming",
-    "Café (beaucoup trop)",
-    "Coder la nuit"
-  ],
-  
-  objectif_2026: "Monter en compétences en full-stack et Unity",
-  devise: "// TODO: Dormir plus"
-};
-```
-
-<br clear="both"/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-
-## Compétences en progression
+## 📬 Contact
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
-<br>⭐⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br><b>PHP</b>
-<br>⭐⭐⭐⭐
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
-<br><b>Lua</b>
-<br>⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><b>SQL</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-<br>⭐⭐⭐
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Ma Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,windows,discord&theme=dark" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Actuellement
-
-<div align="center">
-
-| En cours         | Objectifs           | Temps libre         |
-|:----------------:|:-------------------:|:-------------------:|
-| Bachelor 2ème année IPSSI | Réussir ma 2ème année | Gaming              |
-| Projets Web      | Approfondir Unity   | Coder des projets perso |
-| Stage en cours ✅ | Réussir mon stage   | Café & Code         |
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Contact
-
-<div align="center">
-
-<a href="mailto:mathis.leterme2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mathis.leterme2@gmail.com-ff6b6b?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/mathis-leterme-a9a897386">
-  <img src="https://img.shields.io/badge/LinkedIn-Mathis%20Leterme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/7zarq">
-  <img src="https://img.shields.io/badge/Discord-7zarq-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zaqqx&style=for-the-badge&color=ff6b6b&label=Visiteurs" />
+[![E-mail](https://img.shields.io/badge/E--mail-zarqxoo%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarqxoo@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7zarq-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/7zarq)
 
 <br/><br/>
 
-<b>N'hésite pas à me contacter !</b>
+![Profile views](https://komarev.com/ghpvc/?username=zaqqx&style=flat-square&color=1e3a8a&label=Visites%20du%20profil)
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-## Mes Projets
-
-<div align="center">
-
-| Projet | Description | Statut |
-|:------:|:-----------:|:------:|
-| [**21Legacy.fr**](https://21legacy.fr) | Projet personnel | ✅ En ligne |
-| **Agent-Mail** | Agent qui trie, gère et notifie les mails importants | 🚧 En cours |
-| **Projet Web IPSSI** | Projet scolaire | ✅ Terminé |
-| **Projet de cours** | Jeu FPS shooter BLITZ-RUNNER | ✅ Terminé |
-| [**Quizzeo (IPSSI)**](https://github.com/ImadAtouani/Quizzeo) | Projet IPSSI (quiz web) | ✅ Terminé |
-| [**Botstage**](https://github.com/zaqqx/Botstage) | Projet personnel | ✅ Terminé |
-| _Et plein d'autres en cours..._ |  |  |
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=fadeIn" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer)
 
 </div>
