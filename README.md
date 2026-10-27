@@ -10,14 +10,14 @@
 
 ## 👋 Profil
 
-Étudiant en troisième année de Bachelor Développement à l’IPSSI Lille, je suis en alternance chez Lead4france. Je m’intéresse au développement web et à la création de projets numériques, et je consolide mes compétences techniques au travers de projets concrets.
+Je commence ma troisième année de Bachelor Développement à l’IPSSI Lille et je poursuis mon parcours en alternance chez Lead4france. Je m’intéresse au développement web et à la création de projets numériques, et je consolide mes compétences au travers de projets concrets.
 
 ## 🎓 Formation et expérience
 
 <table>
   <tr>
     <td align="center"><strong>🎓 Formation</strong></td>
-    <td>Bachelor Développement, 3ᵉ année — IPSSI Lille</td>
+    <td>Début de troisième année — Bachelor Développement, IPSSI Lille</td>
   </tr>
   <tr>
     <td align="center"><strong>💼 Expérience</strong></td>
@@ -67,7 +67,7 @@
 
 ## 🎯 Objectifs
 
-- Valider ma troisième année de Bachelor.
+- Réussir ma troisième année de Bachelor.
 - Renforcer mes compétences en développement web et full-stack.
 - Contribuer aux projets de l’entreprise dans le cadre de mon alternance.
 - Concevoir des applications fiables et maintenables.
@@ -76,110 +76,8 @@
 
 <div align="center">
 
-<<<<<<< HEAD
 [![E-mail](https://img.shields.io/badge/E--mail-zarqxoo%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarqxoo@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7zarq-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/7zarq)
-=======
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
-<br>⭐⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br><b>PHP</b>
-<br>⭐⭐⭐⭐
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
-<br><b>Lua</b>
-<br>⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><b>SQL</b>
-<br>⭐⭐⭐
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-<br>⭐⭐⭐
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Ma Toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,windows,discord&theme=dark" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Actuellement
-
-<div align="center">
-
-| En cours         | Objectifs           | Temps libre         |
-|:----------------:|:-------------------:|:-------------------:|
-| Bachelor 2ème année IPSSI | Réussir ma 2ème année | Gaming              |
-| Projets Web      | Approfondir Unity   | Coder des projets perso |
-| Stage en cours ✅ | Réussir mon stage   | Café & Code         |
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## Contact
-
-<div align="center">
-
-
-<a href="https://discord.com/users/7zarq">
-  <img src="https://img.shields.io/badge/Discord-7zarq-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=zaqqx&style=for-the-badge&color=ff6b6b&label=Visiteurs" />
->>>>>>> 414de0dc6fc2117be133cd435e16395f7b99470d
 
 <br/><br/>
 
